@@ -24,8 +24,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
-    - name: Install dependencies
+    - name: Betomix Nangail 
       run: npm install
 
-    - name: Start application
+    - name: Betomix Nangail 
       run: npm start
